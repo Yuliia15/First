@@ -1,7 +1,7 @@
 from random import randint
 a = [randint(0, 10) for i in range(5)]
 print(a)
-b=int((input('vведите число из списка: ')))
+b=int((input('Vведите число из списка: ')))
 if b in a:
    # n=a.index(b) + 1
    # c='Ваша цифра под номером: '+ str(n)
