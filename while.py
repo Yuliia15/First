@@ -1,1 +1,1 @@
-print(5)kjhiuytiyujghjgkgkjh
+print(5)
