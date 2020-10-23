@@ -10,3 +10,7 @@ while n > 0:
     mult = mult * (n % 10)
     n = n // 10
 print('Sum of digits =', suma)
+
+
+n=123
+print('Sum of digits =', sum(int(c) for c in str(n)))
